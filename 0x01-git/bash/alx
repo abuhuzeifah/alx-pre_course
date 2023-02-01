@@ -1,4 +1,25 @@
 echo
 !/bin/bash
-ALX
-echo ALX
+ALX School
+
+echoollaboration is the base of a company
+
+mandatory
+
+A branch is like a copy of your project. It’s used mainly for:
+
+
+
+adding a feature in development
+
+collaborating on the same project with other developers
+
+not breaking your entire repository
+
+not upsetting your co-workers
+
+The purpose of a branch is to isolate your work from the main code base of your project and/or from your co-workers’ work.
+
+
+
+For this project, create a branch update_script and in this branch:
